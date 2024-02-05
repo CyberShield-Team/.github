@@ -14,6 +14,7 @@ Cyber Shield empowers organizations through vigilant defense and resilient cyber
 - Thierry Tran: [LinkedIn](https://www.linkedin.com/in/thierry-tran-703400265/) [GitHub](https://github.com/thierrytuantran)
 - Yoe Moua: [LinkedIn](https://www.linkedin.com/in/yue-moua-9b51601b8/) [GitHub](https://github.com/ymoua27)
 - Rodolfo Gonzales: [LinkedIn](https://www.linkedin.com/in/rgonzo1355/) [GitHub](https://github.com/rgonzo1355)
+- Amleset Tesfamariam: [LinkedIn](https://www.linkedin.com/in/amleset-t/) [GitHub](https://github.com/AmlesetT)
 
 ## Executive Summary:
 * NotOurJob Solution, a growing tech company, seeks to enhance its cybersecurity posture, particularly in cloud infrastructure. The company has contracted our team to implement robust cybersecurity measures that align with AWS best practices and compliance standards. This project focuses on establishing secure IAM configurations, server hardening, data protection, and implementing effective SIEM systems for real-time monitoring and response to adversarial activities.
